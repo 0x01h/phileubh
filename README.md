@@ -19,6 +19,5 @@ Phileubh is a love based minimalist philosophy to bring peaceful mind and harmon
 - philo- before vowels phil-, word-forming element meaning "loving, fond of, tending to," from Greek philos "dear" (adj.), "friend" (n.), from philein "to love," of unknown origin [1](https://www.etymonline.com/word/philo-#etymonline_v_14863).
 - *leubh- Proto-Indo-European root meaning "to care, desire, love" [2](https://www.etymonline.com/word/*leubh-#etymonline_v_52675).
 
-
 <sub><sup>Symbol by [*Vandelay Design*](http://www.vandelaydesign.com) is licensed under a [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/).  
 All intellectual properties except the symbol are licensed under [© 2019 WTFPL – Do What the Fuck You Want to Public License](http://www.wtfpl.net).</sub></sup>
