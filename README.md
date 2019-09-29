@@ -21,3 +21,5 @@ Phileubh is a love based minimalist philosophy to bring peaceful mind and harmon
 
 <sub><sup>Symbol by [*Vandelay Design*](http://www.vandelaydesign.com) is licensed under a [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/).  
 All intellectual properties except the symbol are licensed under [© 2019 WTFPL – Do What the Fuck You Want to Public License](http://www.wtfpl.net).</sub></sup>
+
+[phileubh.org](https://phileubh.org) | [![Netlify Status](https://api.netlify.com/api/v1/badges/2e00628e-03be-4ddb-9a29-0be07a08bc66/deploy-status)](https://app.netlify.com/sites/phileubh/deploys)
