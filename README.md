@@ -15,7 +15,7 @@ Phileubh is a love based minimalist philosophy to bring peaceful mind and harmon
 2. Meditation *to forget illusive reality.*
 3. Breathing *to remember your essence.*
 
-## Etimology
+## Etymology
 - philo- before vowels phil-, word-forming element meaning "loving, fond of, tending to," from Greek philos "dear" (adj.), "friend" (n.), from philein "to love," of unknown origin [1](https://www.etymonline.com/word/philo-#etymonline_v_14863).
 - *leubh- Proto-Indo-European root meaning "to care, desire, love" [2](https://www.etymonline.com/word/*leubh-#etymonline_v_52675).
 
