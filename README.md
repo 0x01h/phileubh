@@ -1,4 +1,4 @@
-![Symbol of Phileubh](images/favicon.png)
+![Symbol of Phileubh](images/favicon.png "Symbol of Phileubh")
 
 # Phileubh
 Phileubh is a love based minimalist philosophy to bring peaceful mind and harmony in human lives.  
